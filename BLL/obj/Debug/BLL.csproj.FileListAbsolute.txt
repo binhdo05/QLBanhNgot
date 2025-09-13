@@ -1,0 +1,27 @@
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\bin\Debug\BLL.dll
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\bin\Debug\BLL.pdb
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\bin\Debug\DAL.dll
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\bin\Debug\DAL.pdb
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\obj\Debug\BLL.dll
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\obj\Debug\BLL.pdb
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\bin\Debug\BLL.dll
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\bin\Debug\BLL.pdb
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\bin\Debug\DAL.dll
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\bin\Debug\DAL.pdb
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\obj\Debug\BLL.dll
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\BLL\obj\Debug\BLL.pdb
+D:\DAn_QLBanhNgot (1)\BLL\bin\Debug\BLL.dll
+D:\DAn_QLBanhNgot (1)\BLL\bin\Debug\BLL.pdb
+D:\DAn_QLBanhNgot (1)\BLL\bin\Debug\DAL.dll
+D:\DAn_QLBanhNgot (1)\BLL\bin\Debug\DAL.pdb
+D:\DAn_QLBanhNgot (1)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\DAn_QLBanhNgot (1)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\DAn_QLBanhNgot (1)\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\DAn_QLBanhNgot (1)\BLL\obj\Debug\BLL.dll
+D:\DAn_QLBanhNgot (1)\BLL\obj\Debug\BLL.pdb

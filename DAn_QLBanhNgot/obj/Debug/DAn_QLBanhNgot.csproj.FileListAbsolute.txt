@@ -1,0 +1,93 @@
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.csproj.AssemblyReference.cache
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_Main.resources
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.Properties.Resources.resources
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.csproj.GenerateResource.cache
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.csproj.CoreCompileInputs.cache
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\DAn_QLBanhNgot.exe.config
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\DAn_QLBanhNgot.exe
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\DAn_QLBanhNgot.pdb
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\BLL.dll
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\BLL.pdb
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBa.E6645DD6.Up2Date
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.exe
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.pdb
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_DanhMuc.resources
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_HDB.resources
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_HDN.resources
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_KhachHang.resources
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ThongKe.resources
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\DAL.dll
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\DAL.pdb
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ThemKH.resources
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ThemDM.resources
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ThemHDB.resources
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ShowCTHDB.resources
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\itextsharp.dll
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\itextsharp.xml
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ThemNL.resources
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ChiTietHDN.resources
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_Login.resources
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\DAn_QLBanhNgot.exe.config
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\DAn_QLBanhNgot.exe
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\DAn_QLBanhNgot.pdb
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\BLL.dll
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\itextsharp.dll
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\DAL.dll
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\BLL.pdb
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\itextsharp.xml
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\bin\Debug\DAL.pdb
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.csproj.AssemblyReference.cache
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ChiTietHDN.resources
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_DanhMuc.resources
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_HDB.resources
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_HDN.resources
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_KhachHang.resources
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_Login.resources
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_Main.resources
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ShowCTHDB.resources
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ThemDM.resources
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ThemHDB.resources
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ThemKH.resources
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ThemNL.resources
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ThongKe.resources
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.Properties.Resources.resources
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.csproj.GenerateResource.cache
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.csproj.CoreCompileInputs.cache
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBa.E6645DD6.Up2Date
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.exe
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.pdb
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\bin\Debug\DAn_QLBanhNgot.exe.config
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\bin\Debug\DAn_QLBanhNgot.exe
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\bin\Debug\DAn_QLBanhNgot.pdb
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\bin\Debug\BLL.dll
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\bin\Debug\BouncyCastle.Cryptography.dll
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\bin\Debug\itextsharp.dll
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\bin\Debug\DAL.dll
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\bin\Debug\BLL.pdb
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\bin\Debug\BouncyCastle.Cryptography.xml
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\bin\Debug\itextsharp.xml
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\bin\Debug\DAL.pdb
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.csproj.AssemblyReference.cache
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ChiTietHDN.resources
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_DanhMuc.resources
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_HDB.resources
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_HDN.resources
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_KhachHang.resources
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_Login.resources
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_Main.resources
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ShowCTHDB.resources
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ThemDM.resources
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ThemHDB.resources
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ThemKH.resources
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ThemNL.resources
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.frm_ThongKe.resources
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.Properties.Resources.resources
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.csproj.GenerateResource.cache
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.csproj.CoreCompileInputs.cache
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBa.E6645DD6.Up2Date
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.exe
+D:\DAn_QLBanhNgot (1)\DAn_QLBanhNgot\obj\Debug\DAn_QLBanhNgot.pdb

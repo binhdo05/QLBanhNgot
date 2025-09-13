@@ -1,0 +1,18 @@
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAL\bin\Debug\DAL.dll
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAL\bin\Debug\DAL.pdb
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAL\obj\Debug\DAL.dll
+D:\Projects\WINFORMS_APP\ĐAN_1(WF)\DAn_QLBanhNgot\DAL\obj\Debug\DAL.pdb
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAL\bin\Debug\DAL.dll
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAL\bin\Debug\DAL.pdb
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAL\obj\Debug\DAL.dll
+D:\Projects\winform-app\ĐAN_1(WF)\DAn_QLBanhNgot\DAL\obj\Debug\DAL.pdb
+D:\DAn_QLBanhNgot (1)\DAL\bin\Debug\DAL.dll
+D:\DAn_QLBanhNgot (1)\DAL\bin\Debug\DAL.pdb
+D:\DAn_QLBanhNgot (1)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\DAn_QLBanhNgot (1)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DAn_QLBanhNgot (1)\DAL\obj\Debug\DAL.dll
+D:\DAn_QLBanhNgot (1)\DAL\obj\Debug\DAL.pdb
