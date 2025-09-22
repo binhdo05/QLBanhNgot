@@ -1,0 +1,72 @@
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanThuoc\DAn_QLCuaHangBanthuoc\BLL\bin\Debug\BLL.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanThuoc\DAn_QLCuaHangBanthuoc\BLL\bin\Debug\BLL.pdb
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanThuoc\DAn_QLCuaHangBanthuoc\BLL\bin\Debug\DAL.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanThuoc\DAn_QLCuaHangBanthuoc\BLL\bin\Debug\DAL.pdb
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanThuoc\DAn_QLCuaHangBanthuoc\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanThuoc\DAn_QLCuaHangBanthuoc\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanThuoc\DAn_QLCuaHangBanthuoc\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanThuoc\DAn_QLCuaHangBanthuoc\BLL\obj\Debug\BLL.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanThuoc\DAn_QLCuaHangBanthuoc\BLL\obj\Debug\BLL.pdb
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\BLL.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\BLL.pdb
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\DAL.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\DAL.pdb
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.pdb
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\BLL.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\BLL.pdb
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\DAL.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\DAL.pdb
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.pdb
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\BLL.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\BLL.pdb
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\DAL.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\DAL.pdb
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.pdb
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.pdb
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\BLL.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\BLL.pdb
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.pdb
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\BLL.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\BLL.pdb
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\DAL.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\DAL.pdb
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.pdb
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\BLL.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\BLL.pdb
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\DAL.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\bin\Debug\DAL.pdb
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\BLL\obj\Debug\BLL.pdb

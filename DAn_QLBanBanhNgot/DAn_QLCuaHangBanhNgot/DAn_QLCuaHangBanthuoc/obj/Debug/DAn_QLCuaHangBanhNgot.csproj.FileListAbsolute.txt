@@ -1,0 +1,554 @@
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe.config
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.pdb
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Guna.UI2.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.dll
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.pdb
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.pdb
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.pdb
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.AssemblyReference.cache
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_dashboard.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Login.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Main.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.Properties.Resources.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.GenerateResource.cache
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.CoreCompileInputs.cache
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCu.BD97787D.Up2Date
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.exe
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.pdb
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe.config
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.pdb
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.dll
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.pdb
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.pdb
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.pdb
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_dashboard.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Login.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Main.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.Properties.Resources.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCu.BD97787D.Up2Date
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.exe
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.pdb
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_LoaiSP.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SuaLo.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SanPham.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_DonNhap.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_GiamGia.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InDN.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InHD.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NhanVien.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NCC.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemBanh.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemKH.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemDN.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemHD.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNV.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNCC.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemLoai.resources
+C:\Users\ASUS\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_KhachHang.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe.config
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.pdb
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Guna.UI2.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.dll
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.pdb
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.pdb
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.pdb
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.AssemblyReference.cache
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemBanh.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemKH.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemDN.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemHD.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNV.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNCC.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemLoai.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_KhachHang.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_dashboard.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SuaLo.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Login.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Main.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SanPham.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_DonNhap.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InDN.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InHD.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NhanVien.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NCC.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_LoaiSP.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.Properties.Resources.resources
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.GenerateResource.cache
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.CoreCompileInputs.cache
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCu.BD97787D.Up2Date
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.exe
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.pdb
+D:\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_HoaDon.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe.config
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.pdb
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.pdb
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.pdb
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.exe.config
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemBanh.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemKH.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemDN.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemHD.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNV.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNCC.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemLoai.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_KhachHang.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_dashboard.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SuaLo.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Login.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Main.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SanPham.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_DonNhap.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_HoaDon.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InDN.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InHD.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NhanVien.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NCC.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_LoaiSP.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.Properties.Resources.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCu.BD97787D.Up2Date
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.exe
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.pdb
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe.config
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.pdb
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.pdb
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.pdb
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.exe.config
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemBanh.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemKH.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemDN.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemHD.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNV.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNCC.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemLoai.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_KhachHang.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_dashboard.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SuaLo.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Login.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Main.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SanPham.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_DonNhap.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_HoaDon.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InDN.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InHD.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NhanVien.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NCC.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_LoaiSP.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.Properties.Resources.resources
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCu.BD97787D.Up2Date
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.exe
+C:\Users\Admin\Downloads\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.pdb
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe.config
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.pdb
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Guna.UI2.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.dll
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.pdb
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.pdb
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.pdb
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.AssemblyReference.cache
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemBanh.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemKH.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemDN.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemHD.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNV.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNCC.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemLoai.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_KhachHang.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_dashboard.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SuaLo.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Login.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Main.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SanPham.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_DonNhap.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_HoaDon.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InDN.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InHD.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NhanVien.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NCC.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_LoaiSP.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.Properties.Resources.resources
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.GenerateResource.cache
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.CoreCompileInputs.cache
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCu.BD97787D.Up2Date
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.exe
+E:\Workspace\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.pdb
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe.config
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.pdb
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Guna.UI2.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.dll
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.pdb
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.pdb
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.pdb
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.AssemblyReference.cache
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemBanh.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemKH.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemDN.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemHD.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNV.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNCC.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemLoai.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_KhachHang.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_dashboard.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SuaLo.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Login.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Main.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SanPham.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_DonNhap.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_HoaDon.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InDN.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InHD.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NhanVien.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NCC.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_LoaiSP.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.Properties.Resources.resources
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.GenerateResource.cache
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.CoreCompileInputs.cache
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCu.BD97787D.Up2Date
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.exe
+C:\Users\Duong\Desktop\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.pdb
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemBanh.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemKH.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemDN.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemHD.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNV.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNCC.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemLoai.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_KhachHang.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SuaLo.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SanPham.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_DonNhap.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_HoaDon.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InDN.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InHD.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NhanVien.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NCC.resources
+D:\Projects\Pj-WinformC#\Winform-3-Layers\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_LoaiSP.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe.config
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.exe
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAn_QLCuaHangBanthuoc.pdb
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Guna.UI2.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.dll
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BLL.pdb
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\BouncyCastle.Cryptography.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.pdb
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ClosedXML.Parser.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\ExcelNumberFormat.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\itextsharp.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\RBush.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\SixLabors.Fonts.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Buffers.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Memory.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Numerics.Vectors.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\bin\Debug\DAL.pdb
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.AssemblyReference.cache
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemBanh.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemKH.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemDN.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemHD.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNV.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemNCC.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_ThemLoai.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_KhachHang.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_dashboard.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SuaLo.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Login.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_Main.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_SanPham.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_DonNhap.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_HoaDon.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InDN.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_InHD.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NhanVien.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_NCC.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.frm_LoaiSP.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.Properties.Resources.resources
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.GenerateResource.cache
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanhNgot.csproj.CoreCompileInputs.cache
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCu.BD97787D.Up2Date
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.exe
+D:\DAn_QLBanBanhNgot (1)\DAn_QLBanBanhNgot\DAn_QLCuaHangBanhNgot\DAn_QLCuaHangBanthuoc\obj\Debug\DAn_QLCuaHangBanthuoc.pdb
