@@ -3,9 +3,9 @@ name: .NET Build & Test
 # Khi nào workflow chạy
 on:
   push:
-    branches: [ main, develop, release/* ]
+    branches: [ master, develop, release/* ]
   pull_request:
-    branches: [ main, develop, release/* ]
+    branches: [ master, develop, release/* ]
 
 jobs:
   build:
