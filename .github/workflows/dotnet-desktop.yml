@@ -1,0 +1,30 @@
+name: .NET Build & Test
+
+# Khi nào workflow chạy
+on:
+  push:
+    branches: [ main, develop, release/* ]
+  pull_request:
+    branches: [ main, develop, release/* ]
+
+jobs:
+  build:
+    runs-on: windows-latest   # vì bạn code C# nên dùng Windows runner
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v2
+      with:
+        dotnet-version: '6.0.x'   # hoặc '8.0.x' nếu bạn dùng .NET 8
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build
+      run: dotnet build --no-restore
+
+    - name: Run tests
+      run: dotnet test --no-build --verbosity normal
