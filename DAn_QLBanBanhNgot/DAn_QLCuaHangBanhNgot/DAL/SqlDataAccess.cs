@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//test comment để trigger CI/CD
 namespace DAL //CSDL
 {
     public class SqlDataAccess
