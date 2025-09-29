@@ -2,7 +2,7 @@
 GO
 USE DAn_1_QLBanBanhNgot
 GO
-
+//test comment
 -- (Bảng danh mục bánh)
 CREATE TABLE DanhMuc
 (
