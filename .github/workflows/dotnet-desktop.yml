@@ -18,7 +18,7 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v2
       with:
-        dotnet-version: '6.0.x'   # hoặc '8.0.x' nếu bạn dùng .NET 8
+        dotnet-version: '8.0.x'   # hoặc '8.0.x' nếu bạn dùng .NET 8
 
     - name: Restore dependencies
       run: dotnet restore
