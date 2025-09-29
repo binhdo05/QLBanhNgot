@@ -1,0 +1,18 @@
+name: Set Project Status to Done on PR merge
+
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  set-status:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Move linked project item -> Done
+        uses: nipe0324/update-project-v2-item-field@v2.0.2
+        with:
+          project-url: https://github.com/users/binhdo05/projects/3/views/1?layout_template=board
+          github-token: ${{ secrets.PROJECT_PAT }}
+          field-name: "Status"
+          field-value: "Done"
